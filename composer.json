@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "^6.5",
+        "guzzlehttp/guzzle": "^7.15",
         "safaricom/mpesa": "^1.0",
         "ext-json": "^7.4",
         "giggsey/libphonenumber-for-php": "^8.12",
